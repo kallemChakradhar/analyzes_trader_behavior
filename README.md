@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes how trader behavior and profitability on Hyperliquid align with Bitcoin market sentiment regimes (Fear, Greed, Extreme Greed, Neutral).
 
@@ -13,7 +13,7 @@ The objective is to uncover regime-based behavioral patterns, evaluate performan
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 chakradhar_rao_ds_assign/
 ├── notebook_1.ipynb         # Data cleaning & feature engineering  
@@ -31,7 +31,7 @@ chakradhar_rao_ds_assign/
 
 ---
 
-## 🛠 Methodology
+##  Methodology
 
 ### Data Engineering
 - Timestamp normalization (Unix → datetime)
@@ -63,7 +63,7 @@ chakradhar_rao_ds_assign/
 
 ---
 
-## 🔥 Key Insights
+##  Key Insights
 
 1. Fear regimes produced the highest average and risk-adjusted profitability.
 2. Greed regimes increased activity but reduced execution efficiency.
@@ -72,7 +72,7 @@ chakradhar_rao_ds_assign/
 
 ---
 
-## 🚀 Strategy Implications
+##  Strategy Implications
 
 - Fear Regime Acceleration Strategy  
 - Greed Regime Risk Throttle  
@@ -80,7 +80,7 @@ chakradhar_rao_ds_assign/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open notebooks in Google Colab.
 2. Upload the original CSV datasets.
@@ -90,7 +90,7 @@ chakradhar_rao_ds_assign/
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Dataset is event-driven (6 major trading dates).
 - Results should be interpreted as exploratory due to limited event samples.
