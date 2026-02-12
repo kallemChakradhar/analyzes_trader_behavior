@@ -15,7 +15,7 @@ The objective is to uncover regime-based behavioral patterns, evaluate performan
 
 ##  Project Structure
 
-chakradhar_rao_ds_assign/
+ds_ChakradharRao/
 ├── notebook_1.ipynb         # Data cleaning & feature engineering  
 ├── notebook_2.ipynb         # Behavioral analysis & ML modeling  
 ├── csv_files/               # Processed datasets  
